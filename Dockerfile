@@ -1,5 +1,5 @@
 FROM php:8.2-fpm
-MAINTAINER Mischa Braam "mischa@weprovide.com"
+MAINTAINER Mischa Braam "mischa.braam@iodigital.com"
 
 RUN apt-get -yq update
 RUN apt-get -yq upgrade
